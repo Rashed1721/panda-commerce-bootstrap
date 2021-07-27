@@ -1,0 +1,27 @@
+/* this work can be done but its not Right way */
+
+/* .bg-info{
+    background-color: red !important;
+} */
+
+.panda-bg-info{
+    background-color:#fceae8;
+}
+.catg-img-size img{
+    width: 100px;
+}
+.panda-btn-buynow-clor{
+    color: white;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+.panda-bag-background{
+    background-color: #da70d6;
+    color: white;
+}
+
+.panda-shoes-background{
+    background-color: #0000ff;
+}
